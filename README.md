@@ -24,13 +24,12 @@ Python 3.6, anaconda, numpy, pandas, matplotlib, seaborn
 
 # File Desriptions
 
-- Udacity_Project1.ipynb containing analysis using the CRISP-DM standard.
+- Blog_Post_Udacity_Project1.ipynb containing analysis using the CRISP-DM standard.
 - readme file
 - survey_results_public.csv contains the data analysed. This file is too large to upload onto this Github repo
-- BlogPost containing a summary of the findings of the analysis.
 
 # Licensing and Acknowledgements
 This repository forms part of a project of the Udacity Data Science Nanodegree. Data from a Stack Overflow survey is analysed.
 
 # Results 
-Please refer to the Udacity_Project1.ipynb and BlogPost files.
+Please refer to Blog_Post_Udacity_Project1.ipynb.
