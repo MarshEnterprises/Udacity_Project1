@@ -33,5 +33,5 @@ Python 3.6, anaconda, numpy, pandas, matplotlib, seaborn
 This repository forms part of a project of the Udacity Data Science Nanodegree. Data from a Stack Overflow survey is analysed.
 
 # Results 
-The results of the blog post are given as a html page and associated files in [this github repository] (https://github.com/MarshEnterprises/Udacity_Project1). 
+The results of the blog post are given as a html page and associated files in [this github repository](https://github.com/MarshEnterprises/Udacity_Project1). 
 
